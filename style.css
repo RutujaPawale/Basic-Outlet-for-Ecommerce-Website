@@ -54,3 +54,6 @@ p{
     margin: 25px 0;
     padding: 20px;
     text-shadow: #333;
+}
+.col-2 h2{
+    font-size: 200%;
