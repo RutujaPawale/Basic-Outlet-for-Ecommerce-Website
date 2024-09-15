@@ -48,3 +48,6 @@ p{
     max-width: 100%;
     padding: 50px 0;
 }
+.col-2 h1{
+    font-size: 600%;
+    line-height: 60px;
