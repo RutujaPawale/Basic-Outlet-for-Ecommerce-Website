@@ -27,3 +27,6 @@ a{
 p{
     color: darkblue;
 }
+.container{
+    max-width: 1300px;
+    margin: auto;
