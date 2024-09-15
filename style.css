@@ -51,3 +51,6 @@ p{
 .col-2 h1{
     font-size: 600%;
     line-height: 60px;
+    margin: 25px 0;
+    padding: 20px;
+    text-shadow: #333;
