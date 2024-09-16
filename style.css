@@ -123,3 +123,6 @@ p{
     text-align: center;
     margin: 0 auto 80px;
     position: relative;
+    color: #555;
+}
+.title::after{
