@@ -120,3 +120,6 @@ p{
     width: 100%;
 }
 .title{
+    text-align: center;
+    margin: 0 auto 80px;
+    position: relative;
