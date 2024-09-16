@@ -132,3 +132,6 @@ p{
     height: 5px;
     transform: translateX(-50%);
     border-radius: 5px;
+    position: absolute;
+    bottom: 0;
+    left:50%
