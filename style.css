@@ -114,3 +114,6 @@ p{
     flex-basis: 25%;
     padding: 10px;
     min-height: 200px;
+    margin-bottom: 50px;
+}
+.col-4 img{
