@@ -111,3 +111,6 @@ p{
     padding-right: 25px;
 }
 .col-4{
+    flex-basis: 25%;
+    padding: 10px;
+    min-height: 200px;
