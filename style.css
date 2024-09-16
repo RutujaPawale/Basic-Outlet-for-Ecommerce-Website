@@ -126,3 +126,6 @@ p{
     color: #555;
 }
 .title::after{
+    content: '';
+    background: #ff523b;
+    width: 80px;
