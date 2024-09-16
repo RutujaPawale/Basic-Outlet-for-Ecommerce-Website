@@ -63,3 +63,6 @@ p{
     color: black;
     text-decoration: wavy;
 }
+.col-2 h3{
+    font-size: 500%;
+    line-height: 60px;
