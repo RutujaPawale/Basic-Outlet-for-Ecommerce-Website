@@ -144,3 +144,11 @@ h4{
     font-size: px;
 }
 .rating .star{
+    color: #ff523b;
+}
+.col-4:hover{
+        transform: translateY(-5px);
+}
+
+
+/*--------------------offer---------------------*/
