@@ -141,3 +141,6 @@ h4{
     font-weight: normal;
 }
 .col-4 p{
+    font-size: px;
+}
+.rating .star{
